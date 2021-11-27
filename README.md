@@ -5,8 +5,7 @@
                               		const user = new github.user();
                               		user.name = "Callbackcat";
                               		user.tools = "Visual Studio Code";
-                              
-                              }
+                                  }
                               
                                    user();                                  
 ```  
